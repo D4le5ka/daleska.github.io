@@ -61,7 +61,7 @@
     button {
       padding: 8px 16px;
       font-size: 16px;
-      background-color: whitesmoke;
+      background-color: white;
       color: cadetblue;
       border: none;
       border-radius: 4px;
@@ -70,7 +70,7 @@
     }
 
     button:hover {
-      background-color: azure;
+      background-color: blue;
     }
 
     #messages {
@@ -87,7 +87,7 @@
     }
 
     .default-message {
-      background-color: whitesmoke;
+      background-color: white;
       color: black;
       margin-left: 0;
     }
